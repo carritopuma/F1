@@ -16,260 +16,32 @@
       {
         "tab1": {
           "Welcome": 1,
-          "buttontext": "1,0,0,1",
+          "buttontext": "Welcome",
           "title1": "Welcome to Ark Carrito!",
-          "text1": "Rates:Experience 5x
-        Harvesting 5x
-        Taming 5x
-        Breeding x25
-        Mating Interval x0.25 
-        Crop Growth x25
-        Cave Damage 6x 
-        Player Food & Water Consumption 0.5 
-        Loot Quality 1x
-        Player Weight x3
-        Tamed Dino  Weight x6
-        Player Fortitude Per Level x2 
-        Platform Max Structures Multiplier 0.7x
-        ⭐every upload and download disabled 
-        ⭐grenades and rockets disabled temporary for active exploits
-        ⭐Now use C4 on wild dinos is forgotten//usar C4 en dinos salvajes esta prohibido",
+          "text1": " Important Config = Experience5x Harvesting5x Taming5x Breedingx25 // Every upload and download disabled //Grenades and rockets disabled temporary for active exploits ///Now use C4 on wild dinos is forgotten//usar C4 en dinos salvajes esta prohibido",
           "imageurl": "https://i.imgur.com/f3dTPgB.png"
         }
       },
       {
-        "Rules": {
+        "tab2": {
           "layout": 2,
-          "buttontext": "2 Box layout",
-          "title1": "General Settings",
-          "title2": "Rules",
-          "text1": "General Settings
-          Max Players server 50 (si se llena, se ampliará) (if filled, it will expand)
-          Tribe Limit 6Man
-          Max Player Level 105 +Ascensions +Chibis
-          Max Wild Dino Level 150
-          Unlimited Mindwipe Respecs True
-          Tribe Tame Limit 500
-          Snap Limit 2500
-          Tribemate Imprints True
-          Give Imprint To New Rider True
-          Diseases False
-          Infinite Structure Pickup True
-          Custom Recipes True
-          Corpse Locator True
-          Grapple Glitch Enabled
-          No Collision Building True
-          Auto Unlock Engrams
-          No Tek Engrams from start 
-          Transfer Timers False
-          Admin Logging False
-          Tribe Slot Reuse Cooldown 0.30 Hours
-          Saddle Armour Clamp 124%
-          Weapon Damage Clamp 298%
-          Flak Armour Clamp 496%
-          Max Durability Clamp 1200
-          Mods
-          Harvesting 5x
-          Taming 5x
-          Breeding x25
-          Mating Interval x0.25 
-          Crop Growth x25
-          Cave Damage 6x 
-          Player Food & Water Consumption 0.5 
-          Loot Quality 1x
-          Player Weight x3
-          Tamed Dino  Weight x6
-          Player Fortitude Per Level x2 
-          Platform Max Structures Multiplier 0.7x
-          ⭐every upload and download disabled 
-          ⭐grenades and rockets disabled temporary for active exploits
-          ⭐Now use C4 on wild dinos is forgotten//usar C4 en dinos salvajes esta prohibido 
-          ",
-          "text2": "1 | Reglas Generales
-          --------------------
-          -----------------------------------------------------------------
-          La regla más importante es ¡diviértete y no seas grosero!
-          
-          (1) Reglas generales
-          
-          1.1- Asegúrate de no infligir ningún tipo de mala conducta. No intentes imponer una dictadura, crear toxicidad y arruinar la experiencia de juego de ningún jugador. Esto incluye, entre otros, lenguaje dañino, ilegal, amenazante, abusivo y cualquier otra forma de malas palabras. En PvP las cosas se ponen calientes y hablar mal está bien, pero si la situación comienza a volverse loca, será revisada y podrá ser castigada de acuerdo con la gravedad de la situación.
-          
-          1.1.1: cualquier idioma es aceptado en el server por el chat global.
-          
-          1.2- EL PERSONAL TIENE SIEMPRE LA ÚLTIMA PALABRA. Pueden elegir si una situación es o no una infracción de las reglas, incluso si no está escrito en las reglas.
-          
-          1.3- No se permite el ataque a la base o dinos en la base de los jugadores de NewPlayerProtection.
-          
-          1.4- No hacer cheats ni exploitear el juego.
-          --------------------
-          1.4.1 - No puedes usar/hacer las cosas que se enumeran a continuación:
-          # No se permite el uso de fallos para obtener huevos de fertilizados de nivel 1, la tribu que se encuentre haciendo esto eliminará TODOS sus dinosaurios, incluso los que están en criópodos.
-          
-          1.5- Prohibido el inside (joder una tribu a la que perteneces). Las tribus son responsables de sus miembros. Los iniciados serán prohibidos permanentemente, pero NO reembolsaremos a la tribu si eso sucede. Si decide devolver el botín, es posible que no lo prohíban.
-          
-          1.6 - Estafar cuando se comercia queda prohibidísimo.
-          
-          1.7 - Cualquier racismo, discriminación o algo que pueda ser ofensivo no está permitido como nombres de jugadores y/o nombres de tribus.
-          
-          2 | Reglas del servidor
-          --------------------
-          -----------------------------------------------------------------
-          2.1- Debes tener los mismos miembros de la tribu en otros servidores de la red y el nombre de tu tribu debe ser el mismo en todo el clúster. Cualquier otra forma de eludir esta regla, como compartir cuentas o cualquier otra forma, será severamente castigada.
-          
-          2.2- Quetzal hatchframe esta permitido y construcciones en Racer también, pero siempre tiene que tener zonas visibles en las que se les pueda disparar, torretas y jugadores. Os recomendamos poner torretas en el suelo para contrarrestarlo.
-          
-          2.3 - No puedes apilar dinosaurios en ningún lugar. Esto incluye apilar dinosaurios uno dentro de otro para reproducirse.
-          🇪🇸  3 | Reglas de construcción
-          --------------------
-          -----------------------------------------------------------------
-          3.1- Todas las estructuras colocadas deben ser visibles y poder dañarse de la forma prevista. Pensamos en una forma intencionada de cualquier forma de construcción para la que fue diseñado el juego, es decir, sin malla. SI no podéis quitar alguno, tenéis que avisar a un admin antes de que os ataquen.
-          
-          3.1.1 - No se podrá construir en lugares de knock-out, pelagornis/silla o tirolesa ni en ningún otro lugar al que no se pueda acceder por medios legales.
-          
-          3.1.2 - Tampoco se permiten estructuras voladoras.
-          
-          3.2- No puedes bloquear ni construir en ninguno de los lugares enumerados a continuación.
-          
-          
-          3.3 – Hacer counter FOB esta permitido.
-          
-          3.3.1- Si un FOB está inactivo y otra tribu quiere fobear esa base, puedes solicitar la autorización del fob una vez que hayas verificado que está inactivo (al menos 1 hora sin ningún tipo de actividad)
-          --------------------
-          3.3.2 - Un FOB consta de una estructura cubierta (cimientos, paredes, techos o burbuja tek), puntos de reaparición y algunos equipos de almacenamiento. Las torretas aleatorias o las camas aleatorias sobre una base, no se consideran FOB.
-          
-          3.4- El spam de estructuras no puede ir más allá de 30 cimientos de la base o torreta, sin embargo, algunas situaciones aún podrían permitirse dependiendo de la ubicación de la base.
-          
-          3.4.1 - No se pueden apilar estructuras una dentro de otra. Caer la bóveda para cubrir las torres está bien, pero no apile estructuras en el mismo píxel para bloquear la entrada a la cueva o se eliminará todo el spam.
-          
-          3.5- Cada tribu solo puede tener 1 base principal por mapa. Si se puede tener teleports de farmeo.
-          
-          3.6 - Sólo se le permite construir en un "punto fuerte". Cada tribu sólo puede construir uno de los lugares que se enumeran a continuación:
-          (Recordar que solo se permite un obelisco por tribu en todo el cluster.)
-          
-          4 | Reglas PvP
-          --------------------
-          -----------------------------------------------------------------
-          4.2- No se permiten alianzas en actividades relacionadas con PvP, esto incluye, entre otros, más de 2 tribus en enfrentamientos PvP. Se permiten tareas PvE como jefes y otras cosas PvE que no implican peleas.
-          
-          4.2.1- Entendemos como alianza llamar a otra tribu para despejar un lugar después de atacar a una tribu.
-          
-          4.3- El tiempo máximo en jaula es de 10 minutos. Los atacantes deben dejar al prisionero en libertad después de este período.
-          
-          4.4- No puedes llevarte todas tus cosas cuando te asaltan, esto también se considera palomitas de maíz. Las personas que se lleven cosas serán eliminadas por los desarrolladores y a las víctimas de las palomitas de maíz se les quitará el botín.
-          
-          4.5- Se permiten contraataques. Una tribu que colocó un fob y pretende atacar a otra tribu puede ser contrarrestada, lo que significa que otra tribu aleatoria puede comenzar a atacarla.
-          --------------------
-          4.6 - No se permite el soaking masivo. No está permitido enviar más de 6 dinosaurios para tanquear o similar. Tampoco está permitido enviar muchos dinosaurios para intentar hacer que la tribu defensora se retrase y no pueda defenderse.
-          Los castigos pueden variar desde una prohibición de 1 día, una prohibición de temporada o una prohibición permanente según la gravedad y la recurrencia.
-          
-          4.7 - Después de 6 horas de haber wipeado el server, los puntos de base que aún están en disputa, o cuevas que tienen múltiples lados, excepto para ser abandonadas por las tribus que tienen el lado más pequeño o en disputa. La tribu que tenga el lado más grande o que esté realizando el concurso/fob tiene derecho a quedarse con el lugar.
-          
-          
-           1 | General rules
-          --------------------
-          -----------------------------------------------------------------
-          1.1- Make sure you do not inflict any type of misconduct. Don't try to impose a dictatorship, create toxicity and ruin any player's gaming experience. This includes, but is not limited to, harmful, unlawful, threatening, abusive language and any other form of profanity. In PvP things get heated and trash talking is fine, but if the situation starts to get crazy, it will be reviewed and you may be punished according to the severity of the situation.
-          
-          1.1.1: Any language is accepted on the server by the global chat.
-          
-          1.2- THE STAFF ALWAYS HAVE THE LAST WORD. They can choose whether or not a situation is a rule violation, even if it is not written in the rules.
-          
-          1.3- Attacking the base or dinos in the base of NewPlayerProtection players is not allowed.
-          
-          1.4- Do not cheat or exploit the game.
-          --------------------
-          1.4.1 - You cannot use/do the things listed below:
-          # Using glitches to obtain level 1 fertilized eggs is not allowed, the tribe found doing this will eliminate ALL of its dinosaurs, even those in cryopods.
-          
-          1.5- Inside is prohibited (fuck a tribe to which you belong). Tribes are responsible for their members. Insiders will be banned permanently, but we will NOT refund the tribe if that happens. If you decide to return the loot, you may not be banned.
-          
-          1.6 - Scamming when trading is strictly prohibited.
-          
-          1.7 - Any racism, discrimination or anything that may be offensive is not allowed as player names and/or tribe names.
-          
-          2 | Server rules
-          --------------------
-          -----------------------------------------------------------------
-          2.1- You must have the same tribe members on other servers in the network and your tribe name must be the same throughout the cluster. Any other way to circumvent this rule, such as account sharing or any other way, will be severely punished.
-          
-          2.2- Quetzal hatchframe and constructions are allowed in Racer as well, but they always have to have visible areas where they can be shot, turrets and players. We recommend putting turrets on the ground to counteract it.
-          
-          2.3 - You can't stack dinosaurs anywhere. This includes stacking dinosaurs on top of each other to reproduce.
-          
-          3 | Construction rules
-          --------------------
-          -----------------------------------------------------------------
-          3.1- All placed structures must be visible and capable of being damaged in the intended way. We are thinking intentionally of whatever form of construction the game was designed for, i.e. no mesh. IF you cannot remove one, you have to notify an admin before they attack you.
-          
-          3.1.1 - No construction may be made in knock-out, pelagornis/chair or zip line locations or any other location that cannot be accessed by legal means.
-          
-          3.1.2 - Flying structures are also not allowed.
-          
-          3.2- You cannot block or build in any of the places listed below.
-          
-          3.3 – Making counter FOB is allowed.
-          
-          3.3.1- If a FOB is inactive and another tribe wants to fob that base, you can request authorization of the fob once you have verified that it is inactive (at least 1 hour without any type of activity)
-          
-          3.3.2 - A FOB consists of a covered structure (foundations, walls, roofs or tek bubble), spawn points and some storage equipment. Random turrets or random beds on a base are not considered FOBs.
-          --------------------
-          3.4- Structure spam cannot go beyond 30 foundations from the base or turret, however, some situations could still be allowed depending on the location of the base.
-          
-          3.4.1 - Structures cannot be stacked inside each other. Dropping the vault to cover the towers is fine, but don't stack structures on the same pixel to block the entrance to the cave or all the spam will be removed.
-          
-          3.5- Each tribe can only have 1 main base per map. Yes you can have farming teleports.
-          
-          3.6 - You are only allowed to build on a "strong point". Each tribe can only build one of the locations listed below:
-          (Remember that only one obelisk is allowed per tribe in the entire cluster.)
-          
-          4 | PvP rules
-          --------------------
-          -----------------------------------------------------------------
-          4.2- Alliances are not allowed in PvP related activities, this includes, among others, more than 2 tribes in PvP clashes. PvE tasks like bosses and other PvE things that don't involve fighting are allowed.
-          
-          4.2.1- We understand an alliance to call another tribe to clear a place after attacking a tribe.
-          
-          4.3- The maximum time in the cage is 10 minutes. The attackers must release the prisoner after this period.
-          
-          4.4- You can't take all your things when you get mugged, this is also considered popcorn. People who take things will be eliminated by the developers and popcorn victims will have their loot taken away.
-          --------------------
-          4.5- Counterattacks are allowed. A tribe that placed a fob and intends to attack another tribe can be countered, meaning another random tribe can start attacking it.
-          
-          4.6 - Mass soaking is not allowed. It is not allowed to send more than 6 dinosaurs for tanking or similar. It is also not allowed to send too many dinosaurs to try to make the defending tribe fall behind and unable to defend itself.
-          Punishments can range from a 1-day ban, seasonal ban, or permanent ban depending on severity and recurrence.
-          
-          4.7 - After 6 hours of wiping the server, base points that are still in dispute, or caves that have multiple sides, except to be abandoned by tribes that have the smallest or disputed side. Whichever tribe has the largest side or is holding the contest/fob has the right to keep the spot.",
+          "buttontext": "Rules",
+          "title1": "Rules",
+          "title2": "Thx for playing on Ark Carrito",
+          "text1": "Check it on the discord",
+          "text2": "thanks for playing on the server. If you have any problems you can post a ticket on discord.",
           "imageurl": "https://i.imgur.com/f3dTPgB.png"
         }
       },
       {
         "tab3": {
-          "layout": 3,
-          "buttontext": "3 Box layout",
-          "title1": "Left title",
-          "title2": "Top right title",
-          "title3": "Bottom left title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/f3dTPgB.png"
-        }
+            "Donation Info": 1,
+            "buttontext": "Donation Info",
+            "title1": "help the server by donating!",
+            "text1": " You can donate to help maintain the server.In exchange you will be given points for the in-game store.More info in the discord tickets.",
+            "imageurl": "https://i.imgur.com/f3dTPgB.png"
+          }
       },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "4 Box layout",
-          "title1": "Top left title",
-          "title2": "<TextStyle.Green>Top right title</>",
-          "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-          "imageurl": "https://i.imgur.com/f3dTPgB.png"
-        }
-      }
     ],
     "links": [
       {
