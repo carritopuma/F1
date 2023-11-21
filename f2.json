@@ -1,0 +1,67 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://imgur.com/f3dTPgB",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "Welcome": 1,
+          "buttontext": "1,0,0,1",
+          "title1": "Welcome to Ark Carrito!",
+          "text1": " Important Config = Experience5x Harvesting5x Taming5x Breedingx25 // Every upload and download disabled //Grenades and rockets disabled temporary for active exploits ///Now use C4 on wild dinos is forgotten//usar C4 en dinos salvajes esta prohibido",
+          "imageurl": "https://i.imgur.com/f3dTPgB.png"
+        }
+      },
+      {
+        "Rules": {
+          "layout": 2,
+          "buttontext": "2 Box layout",
+          "title1": "General Settings",
+          "title2": "Rules",
+          "text1": "Check it on the discord",
+          "text2": "thanks for playing on the server. If you have any problems you can post a ticket on discord.",
+          "imageurl": "https://i.imgur.com/f3dTPgB.png"
+        }
+      },
+      {
+        "Donation Info": {
+            "Donation Info": 1,
+            "buttontext": "1,0,0,1",
+            "title1": "help the server by donating!",
+            "text1": " You can donate to help maintain the server.In exchange you will be given points for the in-game store.More info in the discord tickets.",
+            "imageurl": "https://i.imgur.com/f3dTPgB.png"
+          }
+      },
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Link to Wiki",
+          "url": "https://ark.wiki.gg/es/wiki/ARK:_Survival_Ascended"
+        }
+      },
+      {
+        "link2": {
+          "text": "Link to discord",
+          "url": "https://discord.gg/arkcarrito"
+        }
+      },
+      {
+        "link3": {
+          "text": "Donate",
+          "url": "https://www.paypal.com/donate/?hosted_button_id=7WNVVDCM23H44"
+        }
+      }
+    ]
+  }
+}
